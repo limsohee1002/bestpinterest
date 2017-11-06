@@ -1,9 +1,7 @@
 # bestpinterest
-pinterest
+=======
+this is bespinterest
 
-
-
-
-
-
-Yusaku Kasahara
+# bespin team members
+=======
+Yusaku
